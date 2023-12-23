@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @araj1998
+- 👋 Hi, I’m Ashish Rajanand
 - 👀 I’m interested in AI/ML engineering 
 - 🌱 I’m developing LLM product
 - 💞️ I’m looking to collaborate on LLM 
